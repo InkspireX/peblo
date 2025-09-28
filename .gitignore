@@ -1,0 +1,28 @@
+# Dependencies
+node_modules
+.pnp.*
+
+# Next.js
+.next/
+out/
+.vercel/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor
+.vscode/
+*.swp
+.DS_Store
+.idea/
+
+# Env
+.env*
+
+# Misc
+coverage/
+dist/
+*.local
